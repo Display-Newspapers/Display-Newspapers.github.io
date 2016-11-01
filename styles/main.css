@@ -1,1 +1,9 @@
-
+div.artic1 {
+  float: right;
+  text-align: center;
+  width: 200px;
+}
+div.artic2 {
+  text-align: center;
+  width: 200px;
+}
