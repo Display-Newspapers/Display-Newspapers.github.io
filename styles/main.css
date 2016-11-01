@@ -2,8 +2,10 @@ div.artic1 {
   float: right;
   text-align: center;
   width: 200px;
+  border: 1px solid #777777;
 }
 div.artic2 {
   text-align: center;
   width: 200px;
+  border: 1px solid #777777;
 }
